@@ -3,7 +3,7 @@ ORIG_PN="rest"
 inherit cross gnome2
 
 NAME="mingw64-x86_64-librest0.7"
-VERSION=0.7.93
+VERSION=0.8.0
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="RESTful web services API library for Win64 toolchain"
